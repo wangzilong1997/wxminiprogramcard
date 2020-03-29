@@ -1,0 +1,9 @@
+<map id="map" longitude="118.857491" latitude="39.729992" scale="100" bindcontroltap="controltap" show-compass="true" markers="{{markers}}" bindmarkertap="markertap" bindregionchange="regionchange" show-location style="width: 100vh; height: 100vh;" >
+<cover-view class="back" catchtap="onBack">
+<botton>Back</botton>
+</cover-view>
+<cover-view class="title" >
+<botton>石门路明车灯升级</botton>
+<cover-image src="../../img/psb.png" class="timg"></cover-image>
+</cover-view>
+</map>

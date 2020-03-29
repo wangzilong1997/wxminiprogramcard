@@ -1,0 +1,23 @@
+<view class="container">
+<image class="head-img" src="../../img/psb.png"  mode="bottom" catchtap="viewMoviePostImg">></image>
+<view class="tap">
+  <text class=" mlf title">石门路明车灯</text>
+  <text class=" mlf type">汽车美容  · {{l}}</text>
+  <view class=" mlf icon mt8">
+    <image src="../../img/icon/yingyezhong.png" class="ic"></image>
+    <text class="time">营业中 ·  8：30-19:30</text>
+  </view>
+  <view class="mlf icon">
+  <image src="../../img/icon/dizhi.png" class="ic loca"></image>
+  <view class="time" catchtap="onLocal">
+    <text>石门路明车灯</text>
+    <text style="color:#cdcdcd;">石门路明车灯</text>
+  </view>
+  <view class="call">
+    <image src="../../img/icon/call.png" class="ic icall" catchtap="onCall"></image>
+  </view>
+    
+  </view>
+  
+</view>
+</view>
